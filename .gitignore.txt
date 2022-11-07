@@ -1,0 +1,2 @@
+# gitignore all .txt files
+*.txt
